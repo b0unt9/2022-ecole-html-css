@@ -16,6 +16,13 @@
 
 ## Main point by structure
 ### All
+* Smooth Scroll
+```css
+html {
+    scroll-behavior: smooth;
+}
+```
+
 * Float Top Button
 ```css
 position: fixed;
